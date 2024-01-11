@@ -1,0 +1,29 @@
+
+
+
+
+
+header{
+    background-color: #7e7878;
+    padding: 18px;
+    align-items: center;
+}
+
+
+
+.menu {
+     padding: 20px 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(182, 173, 173);
+
+}
+
+.menu:hover {
+    background-color: rgba(0, 0, 0, 0.842);
+    padding: 20px 15px;
+
+}
+
